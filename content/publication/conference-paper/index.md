@@ -14,11 +14,11 @@ authors:
 - Ying Zhang
 - Zhengping Qian
 - Jingren Zhou
-date: "2019-07"
+date: "2019-07-01T00:00:00Z"
 doi: "10.14778/3339490.3339494"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07"
+publishDate: "2019-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ publication_short: In *VLDB*
 abstract: Recently there emerge many distributed algorithms that aim at solving subgraph matching at scale. Existing algorithm-level comparisons failed to provide a systematic view of distributed subgraph matching mainly due to the intertwining of strategy and optimization. In this paper, we identify four strategies and three general-purpose optimizations from representative state-of-the-art algorithms. We implement the four strategies with the optimizations based on the common Timely dataflow system for systematic strategy-level comparison. Our implementation covers all representative algorithms. We conduct extensive experiments for both unlabelled matching and labelled matching to analyze the performance of distributed subgraph matching under various settings, which is finally summarized as a practical guide.
 
 # Summary. An optional shortened abstract.
-summary: #
+summary: 
 
 tags:
 - Source Themes
@@ -47,7 +47,7 @@ url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/137NVBRu6kl_wLv53ys-FKAvIr-dM7al_L5gJ8DU1HIs/edit?usp=sharing'
+url_slides: https://docs.google.com/presentation/d/137NVBRu6kl_wLv53ys-FKAvIr-dM7al_L5gJ8DU1HIs/edit?usp=sharing
 url_source: '#'
 url_video: '#'
 
