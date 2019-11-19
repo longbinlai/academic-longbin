@@ -42,12 +42,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: static/p1099-lai.pdf
+url_pdf: p1099-lai.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/137NVBRu6kl_wLv53ys-FKAvIr-dM7al_L5gJ8DU1HIs/edit?usp=sharing'
+url_slides: https://docs.google.com/presentation/d/137NVBRu6kl_wLv53ys-FKAvIr-dM7al_L5gJ8DU1HIs/edit?usp=sharing
 url_source: ''
 url_video: ''
 
