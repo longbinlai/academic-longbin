@@ -30,12 +30,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "20%"
-  
-[[feature]]
-  icon = "guitar"
-  icon_pack = "fas"
-  name = "Guitar"
-  description = "20%"
+  description = "10%"
 
 +++
