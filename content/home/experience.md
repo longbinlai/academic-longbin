@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "2019-05-01"
   date_end = ""
-  description = """
+  description = """Research Assistant"""
   Responsibilities include:
   
   * Lead a team to develop graph pattern matching system.
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Sydney, Australia"
   date_start = "2017-05-01"
   date_end = "2019-05-01"
-  description = """
+  description = """Research Assistant"""
   Responsibilities include:
   
   * Design and implement big graph processing primitives and languages.
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-01-17"
   date_end = "2017-04-20"
-  description = """
+  description = """Internship Google"""
   Responsibilities include:
   
   * Designed and implemented an emulator that simulates the Google backbone network and the routing strategies
@@ -65,7 +65,7 @@ for testing, debugging and routing validation.
   location = "Hangzhou, China"
   date_start = "2012-01-01"
   date_end = "2012-12-01"
-  description = """
+  description = """Internship Alibaba"""
   Responsibilities include:
   
   * Designed and implemented a web recommendation system based on Alibaba cloud computing system
