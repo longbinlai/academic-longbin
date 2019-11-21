@@ -10,7 +10,6 @@ url_pdf: patmat-demo.pdf
 url_video: https://www.youtube.com/watch?v=df5bvs0AHHU
 publication: "*Proceedings of the 28th ACM International Conference on Information and Knowledge Management*"
 tags: ["cypher", "distributed processing", "graph database", "graph pattern matching", "join optimization"]
-url_pdf: "http://doi.acm.org/10.1145/3357384.3357840"
 doi: "10.1145/3357384.3357840"
 ---
 
