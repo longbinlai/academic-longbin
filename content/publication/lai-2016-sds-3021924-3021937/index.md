@@ -10,7 +10,6 @@ url_pdf: p217-lai.pdf
 url_slides: vldb2017-slides.pdf
 url_code: https://github.com/longbinlai/SubgEnumFramework
 publication: "*Proc. VLDB Endow.*"
-url_pdf: "https://doi.org/10.14778/3021924.3021937"
 doi: "10.14778/3021924.3021937"
 ---
 
