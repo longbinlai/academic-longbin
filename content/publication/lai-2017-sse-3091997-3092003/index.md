@@ -9,7 +9,6 @@ featured: false
 url_pdf: subgraphj.pdf
 publication: "*The VLDB Journal*"
 tags: ["MapReduce", "Power-law graph", "Random graph", "Subgraph enumeration"]
-url_pdf: "https://doi.org/10.1007/s00778-017-0459-4"
 doi: "10.1007/s00778-017-0459-4"
 ---
 
