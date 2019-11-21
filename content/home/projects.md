@@ -26,8 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Graph Database"
+    tag = "Graph Database"
+    
+  [[content.filter_button]]
+    name = "Distributed System"
+    tag = "Distributed System"
+    
+  [[content.filter_button]]
+    name = "Query Language"
+    tag = "Query Language"
   
   [[content.filter_button]]
     name = "Other"
