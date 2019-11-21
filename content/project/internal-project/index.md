@@ -2,7 +2,11 @@
 title: Distributed Pattern Matching System with Cypher
 summary: To develop a graph pattern matching system in the distributed context, while gluing together the academic results of optimal join algorithms and industrial efforts of query language
 tags:
-- Graph Database;Distributed System;Query Optimization;Cypher
+- Graph Database
+- Distributed System
+- Graph Pattern Matching
+- Query Optimization
+- Cypher
 date: "2018-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
