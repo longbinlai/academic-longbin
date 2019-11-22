@@ -8,7 +8,7 @@ abstract: The subgraph matching problem is defined to find all subgraphs of a da
 featured: false
 publication: "*2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW)*"
 tags: ["distribued subgraph matching", "dataflow system", "cost evaluation", "distributed algorithm"]
-url_pdf: 08750928.pdf
+url_pdf: files/08750928.pdf
 doi: "10.1109/ICDEW.2019.000-2"
 ---
 

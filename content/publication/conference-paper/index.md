@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: p1099-lai.pdf
+url_pdf: files/p1099-lai.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
