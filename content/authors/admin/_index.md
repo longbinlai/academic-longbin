@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Longbin Lai obtained his Degree of Bachelor and Master from Shanghai Jiao Tong University ([SJTU](http://www.sjtu.edu.cn)) in 2010 and 2013 respectively. After that, He joined the Database group in [CSE](https://www.engineering.unsw.edu.au/computer-science-engineering/), [UNSW](https://www.unsw.edu.au/), Sydney for Ph.D study. He obtained my Ph.D degree in Mar. 2017, and his thesis is available [here](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:45376/SOURCE02?view=true). He now joins [Alibaba Damo Academy](https://damo.alibaba.com/) to build intelligent systems for big (graph) data processing. His research interests include graph algorithms, graph database, database management, distributed algorithms and systems. 
+Dr. Longbin Lai obtained his Degree of Bachelor and Master from Shanghai Jiao Tong University ([SJTU](http://www.sjtu.edu.cn)) in 2010 and 2013 respectively. After that, He joined the Database group in [CSE](https://www.engineering.unsw.edu.au/computer-science-engineering/), [UNSW](https://www.unsw.edu.au/), Sydney for Ph.D study. He obtained his Ph.D degree in Mar. 2017, and his thesis is available [here](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:45376/SOURCE02?view=true). He now joins [Alibaba Damo Academy](https://damo.alibaba.com/) to build intelligent systems for big (graph) data processing. His research interests include graph algorithms, graph database, database management, distributed algorithms and systems. 
 
 
