@@ -8,6 +8,7 @@ abstract: Structural node similarity is widely used in analyzing complex network
 featured: false
 url_pdf: files/structsim_short.pdf
 publication: "*36th IEEE International Conference on Data Engineering (short)*"
+doi: "10.1109/ICDE48307.2020.00211"
 tags: ["Node Similarity", "Role Similarity", "Efficiency", "Scalability"]
 ---
 
