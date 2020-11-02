@@ -7,8 +7,8 @@ tags:
 - Donate
 categories:
 - News
-date: "2020-11-14T00:00:00Z"
-lastmod: "2020-11-14T00:00:00Z"
+date: "2020-11-2T00:00:00Z"
+lastmod: "2020-11-2T00:00:00Z"
 featured: false
 draft: false
 
@@ -30,3 +30,4 @@ image:
 # projects: []
 ---
 
+添加名单
