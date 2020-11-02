@@ -6,8 +6,6 @@ tags:
 - Donate
 categories:
 - News
-date: "2020-11-02T00:00:00Z"
-lastmod: "2020-11-02T00:00:00Z"
 featured: false
 draft: false
 
