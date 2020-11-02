@@ -1,6 +1,6 @@
 ---
 title: '上海交通大学信息安全专业2010届毕业生返校活动校友林捐赠明细'
-summary: 
+summary: 捐赠明细
 authors: Longbin Lai
 - admin
 tags:
