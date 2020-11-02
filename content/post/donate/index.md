@@ -30,4 +30,4 @@ image:
 # projects: []
 ---
 
-添加名单
+Name to be added
