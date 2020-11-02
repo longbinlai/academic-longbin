@@ -29,5 +29,3 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 ---
-
-Name to be added
