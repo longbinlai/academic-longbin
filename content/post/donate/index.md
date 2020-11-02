@@ -1,14 +1,14 @@
 ---
 title: '上海交通大学信息安全专业2010届毕业生返校活动校友林捐赠明细'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
+summary: 
+authors: Longbin Lai
 - admin
 tags:
 - Donate
 categories:
 - News
-date: "2020-11-2T00:00:00Z"
-lastmod: "2020-11-2T00:00:00Z"
+date: "2020-11-02T00:00:00Z"
+lastmod: "2020-11-02T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,3 +29,5 @@ image:
 #   Otherwise, set `projects = []`.
 # projects: []
 ---
+
+待添加
