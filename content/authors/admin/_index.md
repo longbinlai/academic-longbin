@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant 
+role: Staff Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales, Sydney
-  url: "www.unsw.edu.au"
+- name: Data Analytics and Intelligence Lab, Alibaba Group
+  url: "https://damo.alibaba.com/labs/data-analytics-and-intelligence"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include big data management, graph database, distributed processing and query optimizations.
