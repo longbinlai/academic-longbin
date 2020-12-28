@@ -1,5 +1,5 @@
 ---
-title: "StructSim: Querying Structural Node Similarity at Billion Scale"
+title: "StructSim: Querying Structural Node Similarity at Billion Scale (extended to VLDBJ)"
 date: 2020-12-28
 publishDate: 2020-12-28T00:43:27.786038Z
 authors: ["Xishuang Chen", "Longbin Lai", "Lu Qin", "Xuemin Lin"]
