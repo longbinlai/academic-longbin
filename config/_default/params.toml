@@ -90,14 +90,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 High Street", city = "Sydney", region = "NSW", postcode = "2033", country = "Australia", country_code = "AU"}
+address = {street = "969 Wen Yi Xi Road", city = "Hangzhou", region = "Zhejiang", postcode = "311121", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-33.918964", longitude = "151.231207"}
+coordinates = {latitude = "30.28210", longitude = "120.02344"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building K17 and take the lift to Office 217-E on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
