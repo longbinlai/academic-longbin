@@ -6,7 +6,7 @@ authors: ["Zhengyi Yang", "Longbin Lai", "Xuemin Lin", "Kongzhang Hao", "Wenjie 
 publication_types: ["1"]
 abstract: Subgraph enumeration is a fundamental problem in graph analytics, which aims to find all instances of a given query graph on a large data graph. In this paper, we propose a system called HUGE to efficiently process subgraph enumeration at scale in the distributed context. HUGE features 1) an optimiser to compute the generic optimal execution plan without the constraints of existing works; 2) a hybrid communication layer that supports both pushing and pulling communication; 3) a novel two-stage execution mode with a lock-free and zero-copy cache design, 4) a BFS/DFS-adaptive scheduler to bound memory consumption, and 5) two-layer intra- and inter-machine load balancing. HUGE is generic such that all existing distributed subgraph enumeration algorithms can be plugged into the system to enjoy automatic speed up and bounded-memory execution.
 featured: true
-url_pdf: files/to_upload.pdf
+url_pdf: files/huge-sigmod21-preprint.pdf
 publication: "ACM SIGMOD/PODS International Conference on Management of Data 2021 (to appear)*"
 tags: ["subgraph enumeration", "distributed graph processing", "join processing", "dynamic scheduling", "load balancing"]
 ---
