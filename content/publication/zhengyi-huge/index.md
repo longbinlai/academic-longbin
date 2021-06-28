@@ -8,6 +8,7 @@ abstract: Subgraph enumeration is a fundamental problem in graph analytics, whic
 featured: true
 url_pdf: files/huge-sigmod21.pdf
 publication: "ACM SIGMOD/PODS International Conference on Management of Data 2021"
+doi: "10.1145/3448016.3457237"
 tags: ["subgraph enumeration", "distributed graph processing", "join processing", "dynamic scheduling", "load balancing"]
 ---
 
