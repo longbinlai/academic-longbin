@@ -9,4 +9,3 @@ featured: false
 publication: "USENIX Annual Technical Conference (ATC) 2023 (to appear)"
 tags: ["Graph Database", "Relational Database", "HTAP", "HTGAP"]
 ---
-
