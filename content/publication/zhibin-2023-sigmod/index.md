@@ -8,6 +8,7 @@ abstract: Butterfly (a cyclic graph motif) counting is a fundamental task with m
 url_pdf: files/iobufs-sigmod-2023.pdf
 featured: true
 publication: "ACM SIGMOD/PODS International Conference on Management of Data 2023 (to appear)"
+doi: "10.1145/3588714"
 tags: ["Graph", "Butterfly counting", "I/O-efficient algorithm", "Semi-witnessing", "Parallel algorithm"]
 ---
 
