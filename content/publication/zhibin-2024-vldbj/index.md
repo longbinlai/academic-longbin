@@ -1,5 +1,5 @@
 ---
-title: "Parallelization of Butterfly Counting on Hierarchical Memory""
+title: "Parallelization of Butterfly Counting on Hierarchical Memory"
 date: 2024-04-24
 publishDate: 2024-04-24T01:41:34.981585Z
 authors: ["Zhibin Wang", "Longbin Lai", "Yixue Liu", "Bing Shui", "Chen Tian", "Sheng Zhong"]
