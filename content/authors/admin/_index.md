@@ -14,17 +14,18 @@ role: Staff Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Data Analytics and Intelligence Lab, Alibaba Group
-  url: "https://damo.alibaba.com/labs/data-analytics-and-intelligence"
+- name: Tongyi Lab, Alibaba Group
+  url: "https://tongyi.aliyun.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big data management, graph database, distributed processing and query optimizations.
+bio: My research interests include big data management, graph database, distributed processing, query optimizations and innovative applications of Large Language Models (LLMs).
 
 interests:
 - Big Data Management
 - Graph Database
 - Distributed Processing
 - Query Optimizations
+- Large Language Models
 
 education:
   courses:
@@ -68,6 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Dr. Longbin Lai obtained his Degree of Bachelor and Master from Shanghai Jiao Tong University ([SJTU](http://www.sjtu.edu.cn)) in 2010 and 2013 respectively. After that, He joined the Database group in [CSE](https://www.engineering.unsw.edu.au/computer-science-engineering/), [UNSW](https://www.unsw.edu.au/), Sydney for Ph.D study under the supervision of [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Dr. Lu Qin](https://www.uts.edu.au/staff/lu.qin). He obtained his Ph.D degree in Mar. 2017, and his thesis is available [here](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:45376/SOURCE02?view=true). He now joins [Alibaba Damo Academy](https://damo.alibaba.com/) to build intelligent systems for big (graph) data processing. His research interests include graph algorithms, graph database, database management, distributed algorithms and systems. 
-
-
+Dr. Longbin Lai obtained his Bachelor’s and Master’s degrees from Shanghai Jiao Tong University ([SJTU](http://www.sjtu.edu.cn)) in 2010 and 2013, respectively. He then pursued his Ph.D. studies in the Database Group at the School of Computer Science and Engineering (CSE), University of New South Wales ([UNSW](https://www.unsw.edu.au/)), Sydney, under the supervision of [Prof. Xuemin Lin](https://www.acem.sjtu.edu.cn/en/faculty/linxuemin.html) and [Prof. Lu Qin](https://www.uts.edu.au/staff/lu.qin). He completed his Ph.D. in March 2017, and his thesis is available [here](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:45376/SOURCE02?view=true).
+Dr. Lai joined Alibaba to develop large-scale graph data analytics systems for its e-commerce platform. He is also a lead contributor to the open-source project [GraphScope](https://github.com/alibaba/graphscope). His work includes GAIA, a distributed dataflow system for large-scale graph queries; GLogS, a distributed interactive pattern matching system; and GOpt, a unified graph query optimization framework. Currently, he is a member of [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), where he leads research and development initiatives focusing on innovative applications of Large Language Models (LLMs).
