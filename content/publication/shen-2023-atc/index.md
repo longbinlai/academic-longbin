@@ -8,6 +8,6 @@ abstract: This paper presents GART, an in-memory system extended from hybrid tra
 featured: false
 url_pdf: files/atc23-final517.pdf 
 url_code: https://github.com/SJTU-IPADS/vegito/tree/gart
-publication: "USENIX Annual Technical Conference (ATC) 2023 (to appear)"
+publication: "USENIX Annual Technical Conference (ATC) 2023"
 tags: ["Graph Database", "Relational Database", "HTAP", "HTGAP"]
 ---
