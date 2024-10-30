@@ -8,6 +8,8 @@ abstract: Graph computing has become increasingly crucial in processing large-sc
 featured: false
 url_pdf: files/gs-flex.pdf
 url_code: https://github.com/alibaba/GraphScope
-publication: "Sigmod 2024 (to appear)"
+publication: "ACM SIGMOD/PODS International Conference on Management of Data 2024"
+doi: "10.1145/3626246.3653383"
+
 ---
 
