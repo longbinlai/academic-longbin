@@ -3,6 +3,7 @@ title: A Graph-Native Query Optimization Framework
 summary: GOpt is built on top of a unified intermediate representation (IR) that is capable of capturing both graph and relational operations, thereby streamlining the optimization of graph queries.
 tags:
 - Graph Database
+- Query Language
 - Graph Pattern Matching
 - Query Optimization
 date: "2024-11-12T00:00:00Z"
