@@ -1,5 +1,5 @@
 ---
-title:  GraphScope Interactive, A High-Throughput Transactional Graph Database
+title:  A High-Throughput Transactional Graph Database
 summary: GraphScope Interactive is a specialized construction of GraphScope Flex, designed to handle concurrent graph queries at an impressive speed. Its primary goal is to process as many queries as possible within a given timeframe, emphasizing a high query throughput rate.
 tags:
 - Graph Database

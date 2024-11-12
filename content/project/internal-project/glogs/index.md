@@ -1,6 +1,6 @@
 ---
-title: GLogS, Interactive Graph Pattern Matching Query At Large Scale
-summary: GLogS system allows users to interactively submit queries using a declarative language, which will be compiled and automatically optimized, and eventually executed on the GAIA dataflow engine.
+title: Interactive Graph Pattern Matching
+summary: We develop GLogS system, allowing users to interactively submit queries using a declarative language, which will be compiled and automatically optimized, and eventually executed on the GAIA dataflow engine.
 tags:
 - Graph Database
 - Distributed System

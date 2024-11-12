@@ -1,5 +1,5 @@
 ---
-title: GAIA, A System for Interactive Analysis on Distributed Graphs Using a High-Level Language
+title: Interactive Analysis on Distributed Graphs Using Gremlin Language
 summary: GAIA (former name, Pegasus) is a distributed data-parallel compute engine based on the cyclic dataflow computation model. GAIA serves as the computation engine, lying at the core of the GraphScope system. Users can construct the computation via a directed acyclic graph (DAG), and easily run the job on their laptop or even a distributed environment across a cluster of computers.
 tags:
 - Distributed System
