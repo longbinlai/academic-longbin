@@ -17,6 +17,8 @@ image:
 links: 
 url_code: "https://github.com/alibaba/GraphScope/tree/main/interactive_engine/compiler"
 url_pdf: "https://arxiv.org/pdf/2401.17786"
+url_docs: "https://graphscope.io/docs/interactive_engine/optimizer"
+url_blog: "https://graphscope.io/blog/tech/2024/02/22/GOpt-A-Unified-Graph-Query-Optimization-Framework-in-GraphScope"
 
 ---
 
