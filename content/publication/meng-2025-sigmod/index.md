@@ -9,6 +9,6 @@ featured: true
 url_pdf: files/ganalytics-sigmod.pdf
 publication: "ACM SIGMOD/PODS International Conference on Management of Data 2025 (to appear)"
 doi: "10.1145/3694966"
-tags: ["Graph Algorithm", "Distributed Processing", "Comprehensive Benchmark", "LLM-based Evaluation"]
+tags: ["Graph Algorithm", "Distributed Processing", "Comprehensive Benchmark", "Large Language Model"]
 ---
 
