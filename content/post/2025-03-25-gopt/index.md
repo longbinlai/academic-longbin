@@ -13,6 +13,7 @@ draft: false
 
 <style>
     .table {
+        display: table;
         width: 100%;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
