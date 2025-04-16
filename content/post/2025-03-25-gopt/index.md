@@ -11,6 +11,16 @@ featured: true
 draft: false
 ---
 
+<style>
+    table {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin-bottom: 1rem;
+        font-size: 1.0rem;
+    }
+</style>
+
 In today's data analysis landscape, the optimization of complex graph queries has been a persistent challenge for the industry. GOpt is an optimizer framework designed for complex graph queries and was officially presented at [SIGMOD Industry 2025](https://arxiv.org/abs/2401.17786). Its core objective is to provide an efficient and universal optimization solution that adapts to various graph query languages and execution engines. In this article, we will delve into the key innovations of GOpt in unified graph query optimization and analyze its optimization process through specific query cases from [LDBC SNB](https://ldbcouncil.org/benchmarks/snb).
 
 GOpt achieves breakthroughs in the following areas:
