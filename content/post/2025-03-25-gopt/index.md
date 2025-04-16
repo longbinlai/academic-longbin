@@ -12,7 +12,7 @@ draft: false
 ---
 
 <style>
-    table {
+    .table {
         width: 100%;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
