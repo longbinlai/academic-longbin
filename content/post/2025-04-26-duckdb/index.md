@@ -61,7 +61,7 @@ The "big data" era emerged when scaling out (distributed clusters) was cheaper t
 - **Memory/storage leaps**: DDR5 RAM hits 70GB/s bandwidth; NVMe SSDs approach DRAM latency.
 - **Unified architectures**: Apple’s M-series chips fuse CPU/GPU/NPU memory, slashing data movement overhead.
 
-Result? Tasks once requiring Hadoop/Spark clusters now run efficiently on single machines. TPC-DS benchmarks show [DuckDB outperforming Spark by 3-8x on 100GB datasets with 10x energy efficiency](https://mp.weixin.qq.com/s?__biz=MzU1NTg2ODQ5Nw==&mid=2247489796&idx=1&sn=f12a900681ff4d8ba5eb4aa2b38fc4db&chksm=fa8886daf63e08db5550fe6b4b5a46f42dfdf5fea6700cccb2d843844ce258bde47f4aa4904e#rd).
+Result? Tasks once requiring Hadoop/Spark clusters now run efficiently on single machines. TPC-DS benchmarks show DuckDB outperforming Spark by 3-8x on 100GB datasets with 10x energy efficiency.
 
 ## Large Models vs. Big Data
 Another significant reason for the decline of big data analytics lies in the gradual transition from "big data" to "large models." As Large Language Models (LLMs) become the new technological cornerstone, the importance of traditional "big data" stacks is being re-evaluated. Large pre-trained models essentially act as [**compression and distillation** of massive datasets](https://arxiv.org/pdf/2309.10668). Insights that previously required labor-intensive analysis of terabytes of data are now embedded within these models. When people increasingly obtain information by querying models like GPT-4 instead of executing complex queries on logs or data warehouses, the underlying data processing and computational paradigms inevitably simplify.
