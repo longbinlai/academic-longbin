@@ -43,17 +43,14 @@ In 2023, MotherDuck founder Jordan Tigani’s blog ["Big Data is Dead"](https://
 1. **Most organizations don’t have "big" data**. Investor surveys reveal that even large B2B companies manage mere terabytes, with many operating on gigabytes. Internal data from SingleStore and others shows core datasets often fit in single-digit gigabytes. **For most, data scale isn’t the bottleneck**.
 
 <p align="center"><img src="img/1745314131999-6d1a31f8-cce4-4d16-b464-5ba953aab6b7.png" width="600"></p>
-*(Source: [Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/))*
 
 2. **Storage-compute imbalance**. Modern architectures decouple storage and compute, but storage grows linearly while compute demand lags. Most analytics focus on recent data, leaving historical datasets underutilized. This "storage obsession" incurs maintenance costs for rarely accessed data.
 
 <p align="center"><img src="img/1745314255837-38a43980-9230-431f-a704-c2f614d68426.png" width="600"></p>
-*(Source: [Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/))*
 
 3. **Rapid data value decay**. Business data often loses relevance within weeks. Historical data serves audits or model training, not daily analytics. **"Big data" is a game for the 1%**—most users operate within traditional single-machine capabilities.
 
 <p align="center"><img src="img/1745314228128-11b4dbc0-2b5d-48db-8f65-146e40570add.png" width="600"></p>
-*(Source: [Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/))*
 
 ## The Scale-Up Revolution
 The "big data" era emerged when scaling out (distributed clusters) was cheaper than scaling up (powerful single machines). Today, hardware advancements flip this equation:
@@ -72,11 +69,9 @@ In this landscape, embedded databases like DuckDB thrive. Projects like DeepSeek
 Born in defiance of the 'big data' hype, DuckDB started with a simple insight: nobody was building an embedded analytical database. The chart below shows exactly what the creators saw missing:
 
 <p align="center"><img src="img/1745315954205-ef8dd17e-184b-4314-8d82-cde9a774a1eb.png" width="600"></p>
-*(Source：https://dl.acm.org/doi/10.1145/3299869.3320212)*
 
 Born in 2018, gaining explosive traction by 2022, DuckDB has by 2025 positioned itself as the de facto leader in the analytical processing database arena - an unprecedented rise for an embedded database:
 <p align="center"><img src="img/1745316024111-fd54646d-162c-40d2-8c13-90c017f519a4.png" width="800"></p>
-*(Source: [OSS Insight](https://ossinsight.io/analyze/duckdb/duckdb#overview))*
 
 ---
 
