@@ -40,15 +40,15 @@ In the ever-shifting tech world, databases stand out as a rare bastion of stabil
 In 2023, MotherDuck founder Jordan Tigani’s blog ["Big Data is Dead"](https://motherduck.com/blog/big-data-is-dead/) sparked debate while crystallizing the rationale behind DuckDB’s embedded, lightweight, single-process design.
 
 ## Debunking "Big Data Myths"—Three Truths
-1. **Most organizations don’t have "big" data**. Investor surveys reveal that even large B2B companies manage mere terabytes, with many operating on gigabytes. Internal data from SingleStore and others shows core datasets often fit in single-digit gigabytes. **For most, data scale isn’t the bottleneck**.
+- **Most organizations don’t have "big" data**. Investor surveys reveal that even large B2B companies manage mere terabytes, with many operating on gigabytes. Internal data from SingleStore and others shows core datasets often fit in single-digit gigabytes. **For most, data scale isn’t the bottleneck**.
 
 <p align="center"><img src="img/1745314131999-6d1a31f8-cce4-4d16-b464-5ba953aab6b7.png" width="600"></p>
 
-2. **Storage-compute imbalance**. Modern architectures decouple storage and compute, but storage grows linearly while compute demand lags. Most analytics focus on recent data, leaving historical datasets underutilized. This "storage obsession" incurs maintenance costs for rarely accessed data.
+- **Storage-compute imbalance**. Modern architectures decouple storage and compute, but storage grows linearly while compute demand lags. Most analytics focus on recent data, leaving historical datasets underutilized. This "storage obsession" incurs maintenance costs for rarely accessed data.
 
 <p align="center"><img src="img/1745314255837-38a43980-9230-431f-a704-c2f614d68426.png" width="600"></p>
 
-3. **Rapid data value decay**. Business data often loses relevance within weeks. Historical data serves audits or model training, not daily analytics. **"Big data" is a game for the 1%**—most users operate within traditional single-machine capabilities.
+- **Rapid data value decay**. Business data often loses relevance within weeks. Historical data serves audits or model training, not daily analytics. **"Big data" is a game for the 1%**—most users operate within traditional single-machine capabilities.
 
 <p align="center"><img src="img/1745314228128-11b4dbc0-2b5d-48db-8f65-146e40570add.png" width="600"></p>
 
