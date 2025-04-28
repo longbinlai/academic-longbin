@@ -402,7 +402,8 @@ As LLMs democratize data access, DuckDB's ​**"small-data engine for a small-da
 - [Join Order Optimization with (Almost) No Statistics](https://homepages.cwi.nl/~boncz/msc/2022-TomEbergen.pdf)
 - [Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html#expression-rewriter)
 
+---
 
-## Acknowledgements
+# Acknowledgements
 Reposted from [GraphScope Posts](https://graphscope.io/blog/tech/2025/04/26/Why-DuckDB-Is-Such-A-Good-Database-Product)
 
